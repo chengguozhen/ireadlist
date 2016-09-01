@@ -9,7 +9,7 @@
 
 ## 参加步骤
 
-* 在 GitHub上`fork`到自己的仓库，如 `docker_user/docker_practice`，然后`clone`到本地，并设置用户信息。
+* 在 GitHub上`fork`到自己的仓库，如 `user/ireadlist`，然后`clone`到本地，并设置用户信息。
 ```
 $ git clone git@github.com:chengguozhen/ireadlist.git
 $ cd ireadlist
