@@ -12,7 +12,7 @@
 * 在 GitHub上`fork`到自己的仓库，如 `docker_user/docker_practice`，然后`clone`到本地，并设置用户信息。
 ```
 $ git clone git@github.com:chengguozhen/ireadlist.git
-$ cd docker_practice
+$ cd ireadlist
 $ git config user.name "yourname"
 $ git config user.email "your email"
 ```
