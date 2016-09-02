@@ -30,6 +30,10 @@ SDN网络相关方向的研究工作主要发表于ACM SIGCOMM、NSDI、Hotnets�
 [Kandoo: A Framework for Efficient and Scalable Offloading of Control Applications, Soheil Hassas Yeganeh, Yashar Ganjali, HotSDN 2012](http://conferences.sigcomm.org/sigcomm/2012/paper/hotsdn/p19.pdf)
 
 ## 交换机
+[Mina Tahmasbi Arashloo, Yaron Koral, Michael Greenberg, Jennifer Rexford, and David Walker, "SNAP: Stateful network-wide abstractions for packet processing" to appear in ACM SIGCOMM, August 2016](http://www.cs.princeton.edu/~jrex/papers/snap16.pdf)
+
+[Muhammad Shahbaz, Sean Choi, Ben Pfaff, Changhoon Kim, Nick Feamster, Nick McKeown, Jennifer Rexford, "PISCES: A programmable, protocol-independent software switch" to appear in ACM SIGCOMM, August 2016](http://www.cs.princeton.edu/~jrex/papers/pisces16.pdf)
+
 [DevoFlow: Scaling Flow Management for High-performance Networks, Andrew R. Curtis, Jeffrey C. Mogul, Jean Tourrilhes, Praveen Yalagandula, Puneet Sharma, Sujata Banerjee, Sigcomm 2011](http://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p254.pdf)
 
 [Scalable Flow-based Networking with DIFANE, Minlan Yu, Jennifer Rexford, Michael J. Freedman, Jia Wang, Sigcomm 2010](http://www.cs.princeton.edu/~jrex/papers/difane10.pdf)
